@@ -1,0 +1,9 @@
+[submodule "submodule-docker-dev-workflow-server"]
+	path = submodule-docker-dev-workflow-server
+	url = git@github.com:victor5114/submodule-docker-dev-workflow-server.git
+[submodule "submodule-docker-dev-workflow-arango"]
+	path = submodule-docker-dev-workflow-arango
+	url = git@github.com:victor5114/submodule-docker-dev-workflow-arango.git
+[submodule "submodule-docker-dev-workflow-web"]
+	path = submodule-docker-dev-workflow-web
+	url = git@github.com:victor5114/submodule-docker-dev-workflow-web.git
